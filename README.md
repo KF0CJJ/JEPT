@@ -18,6 +18,8 @@ run on linux: ```python3 jept.py```
 
 configure settings
 
+and click Run!
+
 
 # To do:
 
@@ -25,11 +27,10 @@ Add offline support
 
 Add rotator support
 
-Automaticaly run the live.py scirpit if "Run" is pressed in jept.py
-
 
 # To fix:
 
 Make the Prediction end time in UTC too, in local for now
 
-Default prediction time in settings
+✅fix the lat/long GUI settings (thanks Wyattaw!)
+
